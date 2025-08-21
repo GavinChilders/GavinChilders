@@ -11,10 +11,11 @@ Currently, I'm working on a couple of projects and concepts to build my portfoli
 - **Data Structure Performance Benchmarking:** A reconstruction of an old school project, where I’m designing a console-based program that tests different data structures and algorithms. The goal is to produce a final report showing not just which one performs best overall, but also when each structure is the best choice depending on the scenario.
 - **Tic-Tac-Toe:** A console-based game of Tic-Tac-Toe, featuring Local Play and procedural AI opponents. It’s a chance to build modular game pieces (Boards, Game Rules, etc.) while also diving into procedural AI logic to create a decently competitive, non-repetitive opponent.
 - **AutoCart:** A shopping list and reminders app for mobile devices, designed to re-add items to your list based on fixed intervals (e.g. every 3 months) or specific dates (e.g. every May 2nd). It’s built to help users stay on top of tasks and purchases that need to happen on a schedule—automatically adding them to their list when it’s time.
+- **Password Manager:** A console-based program for storing and managing login information (URLs, usernames, emails, and passwords). It’s designed to practice core Python concepts—object-oriented programming (using classes for entries), input validation (checking email and password strength), file handling (saving data in JSON), and user interaction through a basic menu system.
 
 
 ## 💻 Tech & Tools
-- **Languages:** C++  
+- **Languages:** C++
 - **Tools:** Visual Studio, Git  
 - **Platforms:** Windows  
 - **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
