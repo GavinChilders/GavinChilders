@@ -15,7 +15,7 @@ Currently, I'm working on a couple of projects and concepts to build my portfoli
 
 
 ## 💻 Tech & Tools
-- **Languages:** C++
+- **Languages:** C++, Python
 - **Tools:** Visual Studio, Git  
 - **Platforms:** Windows  
 - **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
