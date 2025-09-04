@@ -10,8 +10,8 @@ I’m a Computer Science undergrad at the University of Central Arkansas, passio
 I'm not currently working on a project for the portfolio, but stay tuned for new project announcements and releases.
 
 ## 💻 Tech & Tools
-- **Languages:** C++, Python
-- **Tools:** Visual Studio, Git  
+- **Languages:** C++, Python, HTML
+- **Tools:** Visual Studio, Git, Jupyter Notebook, Jupyter Labs
 - **Platforms:** Windows  
 - **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
 
