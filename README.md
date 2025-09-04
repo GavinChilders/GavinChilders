@@ -16,7 +16,7 @@ I'm not currently working on a project for the portfolio, but stay tuned for new
 - **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
 
 ## 📚 Education
-Pursuing a B.S. in Computer Science at the University of Central Arkansas (expected May 2027). I’ve enjoyed courses like Data Structures and Programming Principles, and I’m currently diving into Discrete Mathematics and Principles of Programming Languages.
+Pursuing a B.S. in Computer Science at the University of Central Arkansas (expected May 2027). I’ve enjoyed courses like Data Structures, and I’m currently diving into Discrete Mathematics and Principles of Programming Languages.
 
 ### 🔍 Selected Projects
 
