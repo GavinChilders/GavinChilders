@@ -7,11 +7,7 @@
 I’m a Computer Science undergrad at the University of Central Arkansas, passionate about coding and building real software. In my free time, I enjoy experimenting with coding projects, developing backend console-based tools, and researching new programming techniques and technologies.
 
 ## 🧑‍💻 What I’m Working On
-Currently, I'm working on a couple of projects and concepts to build my portfolio, and to make strides towards my goals:
-- **Data Structure Performance Benchmarking:** A reconstruction of an old school project, where I’m designing a console-based program that tests different data structures and algorithms. The goal is to produce a final report showing not just which one performs best overall, but also when each structure is the best choice depending on the scenario.
-- **Tic-Tac-Toe:** A console-based game of Tic-Tac-Toe, featuring Local Play and procedural AI opponents. It’s a chance to build modular game pieces (Boards, Game Rules, etc.) while also diving into procedural AI logic to create a decently competitive, non-repetitive opponent.
-- **AutoCart:** A shopping list and reminders app for mobile devices, designed to re-add items to your list based on fixed intervals (e.g. every 3 months) or specific dates (e.g. every May 2nd). It’s built to help users stay on top of tasks and purchases that need to happen on a schedule—automatically adding them to their list when it’s time.
-
+I'm not currently working on a project for the portfolio, but stay tuned for new project announcements and releases.
 
 ## 💻 Tech & Tools
 - **Languages:** C++, Python
