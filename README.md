@@ -7,7 +7,7 @@
 I’m a Computer Science undergrad at the University of Central Arkansas, passionate about coding and building real software. In my free time, I enjoy experimenting with coding projects, developing backend console-based tools, and researching new programming techniques and technologies.
 
 ## 🧑‍💻 What I’m Working On
-I'm not currently working on a project for the portfolio, but stay tuned for new project announcements and releases.
+- **Budgeting Sim:** A Python-based budgeting simulator that models interest, savings contributions, and expenses, producing a structured "Budgeting Plan Outline" to help visualize financial planning strategies.
 
 ## 💻 Tech & Tools
 - **Languages:** C++, Python, HTML
