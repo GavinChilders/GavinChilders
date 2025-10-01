@@ -6,7 +6,7 @@
 I’m a Computer Science undergrad at the University of Central Arkansas, passionate about coding and building real software. In my free time, I enjoy experimenting with coding projects, developing backend console-based tools, and researching new programming techniques and technologies.
 
 ## 🧑‍💻 What I’m Working On
-I'm currently not working on any projects, stay tuned for future projects and announcements.
+- **Chess Game:** A Python/C++ program that will utilize the two languages' features to run a game of chess with fully implemented AI, Algorithimic Processing, and GUI.
 
 ## 💻 Tech & Tools
 - **Languages:** C++, Python, HTML
