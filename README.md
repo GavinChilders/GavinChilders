@@ -1,7 +1,6 @@
 # Hi, I’m Gavin Childers
-![GitHub followers](https://img.shields.io/github/followers/GavinChilders?label=Follow&style=social)
-
-![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinChilders&show_icons=true&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/GavinChilders?label=Follow&style=social) <br>
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinChilders&show_icons=true&theme=radical) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinChilders&layout=compact&theme=radical)
 
 I’m a Computer Science undergrad at the University of Central Arkansas, passionate about coding and building real software. In my free time, I enjoy experimenting with coding projects, developing backend console-based tools, and researching new programming techniques and technologies.
