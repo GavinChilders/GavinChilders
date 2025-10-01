@@ -9,13 +9,13 @@ I’m a Computer Science undergrad at the University of Central Arkansas, passio
 - **Chess Game:** A Python/C++ program that will utilize the two languages' features to run a game of chess with fully implemented AI, Algorithimic Processing, and GUI.
 
 ## 💻 Tech & Tools
-- **Languages:** C++, Python, HTML
-- **Tools:** Visual Studio, Git, Jupyter Notebook, Jupyter Labs
+- **Languages:** C++, Python, HTML, Go
+- **Tools:** Visual Studio, Git, Jupyter Notebook, Jupyter Labs, VS Code
 - **Platforms:** Windows  
 - **Concepts:** Object-Oriented Programming, Data Structures, Algorithms
 
 ## 📚 Education
-Pursuing a B.S. in Computer Science at the University of Central Arkansas (expected May 2027). I’ve enjoyed courses like Data Structures, and I’m currently diving into Discrete Mathematics and Principles of Programming Languages.
+Pursuing a B.S. in Computer Science at the University of Central Arkansas (expected May 2027). I’ve enjoyed courses like Data Structures, and I’m currently diving into Discrete Mathematics, Principles of Programming Languages, and Introduction to Data Sciences.
 
 ### 🔍 Selected Projects
 
