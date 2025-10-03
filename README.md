@@ -6,8 +6,9 @@
 I’m a Computer Science undergrad at the University of Central Arkansas, passionate about coding and building real software. In my free time, I enjoy experimenting with coding projects, developing backend console-based tools, and researching new programming techniques and technologies.
 
 ## 🧑‍💻 What I’m Working On
-- **Chess Game:** A Python/C++ program that will utilize the two languages' features to run a game of chess with fully implemented AI, Algorithimic Processing, and GUI.
-
+- **Chess Game (C++/Python):** A cross-language chess engine with AI decision-making, algorithmic optimization, and a future GUI front-end. 
+- **Lexical Analyzer (Python):** A Jack-language parser that generates XML with proper lexeme categorization, exploring the foundations of compiler design.
+  
 ## 💻 Tech & Tools
 - **Languages:** C++, Python, HTML, Go
 - **Tools:** Visual Studio, Git, Jupyter Notebook, Jupyter Labs, VS Code
@@ -19,8 +20,7 @@ Pursuing a B.S. in Computer Science at the University of Central Arkansas (expec
 
 ### 🔍 Selected Projects
 
-#### Data Structure Performance Benchmark Tool
-A C++ tool I built to compare how different data structures—like `std::list`, binary search trees, AVL trees, hash tables, and red-black trees—handle insertion, search, and deletion on large datasets. Running tests across multiple machines helped me understand practical performance trade-offs and system constraints. This project sharpened my ability to analyze algorithm efficiency and exposed me to practical challenges in system performance.
+My projects are currently in progress of being made, however, once finished, their open source code will be published on my page and listed here.
 
 ## 🌱 What I’m Learning
 - Sorting and searching algorithms in C++  
