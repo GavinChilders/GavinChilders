@@ -7,7 +7,6 @@ I’m a Computer Science undergrad at the University of Central Arkansas, passio
 
 ## 🧑‍💻 What I’m Working On
 - **Chess Game (C++/Python):** A cross-language chess engine with AI decision-making, algorithmic optimization, and a future GUI front-end. 
-- **Lexical Analyzer (Python):** A Jack-language parser that generates XML with proper lexeme categorization, exploring the foundations of compiler design.
   
 ## 💻 Tech & Tools
 - **Languages:** C++, Python, HTML, Go
@@ -19,8 +18,7 @@ I’m a Computer Science undergrad at the University of Central Arkansas, passio
 Pursuing a B.S. in Computer Science at the University of Central Arkansas (expected May 2027). I’ve enjoyed courses like Data Structures, and I’m currently diving into Discrete Mathematics, Principles of Programming Languages, and Introduction to Data Sciences.
 
 ### 🔍 Selected Projects
-
-My projects are currently in progress of being made, however, once finished, their open source code will be published on my page and listed here.
+- **Lexical Analyzer (Python):** A Jack-language parser that generates XML with proper lexeme categorization, exploring the foundations of compiler design.
 
 ## 🌱 What I’m Learning
 - Sorting and searching algorithms in C++  
