@@ -6,7 +6,7 @@
 I’m a Computer Science undergrad at the University of Central Arkansas, passionate about coding and building real software. In my free time, I enjoy experimenting with coding projects, developing backend console-based tools, and researching new programming techniques and technologies.
 
 ## 🧑‍💻 What I’m Working On
-I'm currently know working on any projects that'll be made for public display. Please keep posted in order to see new works in progress, or refer to the [Selected Projects Section](https://github.com/GavinChilders/GavinChilders/edit/main/README.md#-selected-projects) to see what projects I've already made public.
+I'm currently know working on any projects that'll be made for public display. Please keep posted in order to see new works in progress, or refer to the [Selected Projects Section](https://github.com/GavinChilders/GavinChilders/blob/main/README.md#-selected-projects) to see what projects I've already made public.
   
 ## 💻 Tech & Tools
 - **Languages:** C++, Python, HTML, Go
