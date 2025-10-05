@@ -20,12 +20,6 @@ Pursuing a B.S. in Computer Science at the University of Central Arkansas (expec
 ### 🔍 Selected Projects
 - **Lexical Analyzer (Python):** A Jack-language parser that generates XML with proper lexeme categorization, exploring the foundations of compiler design.
 
-## 🌱 What I’m Learning
-- Sorting and searching algorithms in C++  
-- Building command-line utilities from scratch  
-- Introductory SQL and data management  
-- Writing clean, maintainable code with proper documentation
-
 ## 📫 Let’s Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gavin-childers-b00ba52b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
