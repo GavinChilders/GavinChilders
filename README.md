@@ -18,7 +18,7 @@ Please keep posted in order to see new works in progress, or refer to the [Selec
 Pursuing a B.S. in Computer Science at the University of Central Arkansas (expected May 2027). I’m currently diving into Networking, and O-O-P in Java.
 
 ## 🔍 Selected Projects
-I currently have no finished projects to view, come back to check up on what I post, or check out [What I'm Working On](https://github.com/GavinChilders/GavinChilders/edit/main/README.md#%E2%80%8D-what-im-working-on) to see what I'm currently working on.
+I currently have no finished projects to view, come back to check up on what I post, or check out [What I'm Working On](https://github.com/GavinChilders/GavinChilders/blob/main/README.md#%E2%80%8D-what-im-working-on) to see what I'm currently working on.
 
 ## 📫 Let’s Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gavin-childers-b00ba52b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
