@@ -10,7 +10,7 @@ Please keep posted in order to see new works in progress, or refer to the [Selec
   
 ## 💻 Tech & Tools
 - **Languages:** C++, Python, HTML, Go, R Markdown, Java
-- **Tools:** Visual Studio, Git, Jupyter Notebook, Jupyter Labs, VS Code, RStudio, IntelliJ
+- **Tools:** Visual Studio, Git, Jupyter, VS Code, RStudio, IntelliJ
 - **Platforms:** Windows
 - **Concepts:** Object-Oriented Programming, Data Structures, Algorithms, Data Sciences, Networking
 
