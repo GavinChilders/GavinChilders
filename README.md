@@ -6,14 +6,13 @@
 [![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinChilders)](https://github.com/GavinChilders/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinChilders)](https://github.com/GavinChilders/github-readme-stats)
 
-
-I’m a Computer Science undergrad at the University of Central Arkansas, passionate about coding and building real software. In my free time, I enjoy experimenting with coding projects, developing backend console-based tools, and researching new programming techniques and technologies.
+I’m a Computer Science undergrad at the University of Central Arkansas, passionate about coding and building real software. In my free time, I enjoy experimenting with coding projects, developing console-based backend tools, and researching new programming techniques and technologies.
 
 ## 🧑‍💻 What I’m Working On
 These projects are in active development. For details and updates, visit each project’s repository.
-- **Checklist Bingo:** A customizable Bingo game intended for categorical or task-based use, rather than traditional random number generation.
+- **[Bing.O:](https://github.com/GavinChilders/Bing.O)** A customizable Bingo game intended for categorical or task-based use, rather than traditional random number generation.
 - **Pokemon Legends Z-A Donut Calculator:** An application designed to calculate flavors, energy, flavor powers, and other traits from the Pokemon Legends Z-A Donut Mechanic
-- **Auto Clicker:** An auto clicker macro designed for ease of use, with customizable settings for users interested in macro automation.
+- **[Auto Clicker:](https://github.com/GavinChilders/AutoClicker)** An auto clicker macro designed for ease of use, with customizable settings for users interested in macro automation.
   
 ## 💻 Tech & Tools
 - **Languages:** C++, Python, HTML, Go, R Markdown, Java
