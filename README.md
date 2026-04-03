@@ -1,4 +1,6 @@
 # Howdy!, I’m Gavin Childers
+*Building practical software and exploring coding challenges*
+
 ![GitHub followers](https://img.shields.io/github/followers/GavinChilders?label=Follow&style=social)
 
 [![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinChilders)](https://github.com/GavinChilders/github-readme-stats)
