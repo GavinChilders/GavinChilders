@@ -3,9 +3,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/GavinChilders?label=Follow&style=social)
 
-[![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinChilders)](https://github.com/GavinChilders/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinChilders)](https://github.com/GavinChilders/github-readme-stats)
-
 I’m a Computer Science undergrad at the University of Central Arkansas, passionate about coding and building real software. In my free time, I enjoy experimenting with coding projects, developing console-based backend tools, and researching new programming techniques and technologies.
 
 ## 🧑‍💻 What I’m Working On
