@@ -10,6 +10,7 @@ These projects are in active development. For details and updates, visit each pr
 - **[Bing.O:](https://github.com/GavinChilders/Bing.O)** A customizable Bingo game intended for categorical or task-based use, rather than traditional random number generation.
 - **Pokemon Legends Z-A Donut Calculator:** An application designed to calculate flavors, energy, flavor powers, and other traits from the Pokemon Legends Z-A Donut Mechanic
 - **[Auto Clicker:](https://github.com/GavinChilders/AutoClicker)** An auto clicker macro designed for ease of use, with customizable settings for users interested in macro automation.
+- **Camera Filter System:** An application utilizing matrix multiplication in order to demonstrate it's use in computer graphics and camera filters.
   
 ## 💻 Tech & Tools
 - **Languages:** C++, Python, HTML, Go, R, Java
