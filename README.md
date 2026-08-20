@@ -8,7 +8,6 @@ I’m a Computer Science undergrad at the University of Central Arkansas, passio
 ## 🧑‍💻 What I’m Working On
 These projects are in active development. For details and updates, visit each project’s repository.
 - **[Bing.O:](https://github.com/GavinChilders/Bing.O)** A customizable Bingo game intended for categorical or task-based use rather than traditional random number generation.
-- **Pokemon Legends Z-A Donut Calculator:** An application designed to calculate flavors, Energy, Flavor Powers, and other traits related to the Pokémon Legends: Z-A donut mechanic.
 - **[Auto Clicker:](https://github.com/GavinChilders/AutoClicker)** An auto-clicker macro designed for ease of use, with customizable settings for users interested in macro automation.
   
 ## 💻 Tech & Tools
