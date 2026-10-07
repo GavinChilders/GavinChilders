@@ -11,10 +11,9 @@ These projects are in active development. For details and updates, visit each pr
 - **[Auto Clicker:](https://github.com/GavinChilders/AutoClicker)** An auto-clicker macro designed for ease of use, with customizable settings for users interested in macro automation.
   
 ## 💻 Tech & Tools
-- **Languages:** C++, Python, HTML, Go, R, Java
-- **Tools:** Visual Studio, Git, Jupyter, VS Code, RStudio, IntelliJ IDEA, Unity
-- **Platforms:** Windows
-- **Concepts:** Object-Oriented Programming, Data Structures, Algorithms, Data Science, Networking
+- **Programming Languages:** C++, Python, Java, Bash/Shell Scripting
+- **Tools & Environments:** Visual Studio, VS Code, IntelliJ, Linux/Ubuntu, Git/GitHub
+- **Technical Skills:** Object-Oriented Programming, Data Structures, Algorithms, Software Development, Debugging
 
 ## 📚 Education
 Pursuing a B.S. in Computer Science at the University of Central Arkansas (expected May 2027). I’m currently diving into Linux Systems, Artificial Intelligence, Algorithms, Database Systems, and Software Development. 
